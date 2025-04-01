@@ -8,6 +8,10 @@ This is example
 
 ## Purpose
 
+As stated, the main purpose is...
+
 ## Deployment
+
+This is a simple web project
 
 ## How To Contribute
